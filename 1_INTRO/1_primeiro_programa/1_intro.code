@@ -1,0 +1,12 @@
+{
+	"folders" [
+		{
+			"name": "1_INTRO",
+			"path": ".."
+		},
+		{
+			"name": "2_utilizando_modulo",
+			"path": "../../2_utilizando_modulo"
+		}
+	]
+}
