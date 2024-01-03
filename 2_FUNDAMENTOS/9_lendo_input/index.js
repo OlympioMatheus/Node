@@ -5,9 +5,9 @@ const readline =  require("readline").createInterface({
 
 readline.question("Qual a sua linguagem preferida? ", (language) => {
     if(language === "python"){
-    console.log('Isso nem é linguagem')
+    console.log('Isso nem é linguagem, é brincadeiraa')
     } else {
         console.log(`A minha linguagem preferida é: ${language} `)
     } 
-    readline.close()  
+    readline.close()  // fechar para parar a execução do readline
 })
