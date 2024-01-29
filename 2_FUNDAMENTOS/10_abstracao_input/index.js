@@ -7,10 +7,10 @@ O comando pra usar ela é: npm install inquirer@8.1.0
 */
 const inquirer = require('inquirer')
 
-inquirer.prompt([
+inquirer.prompt([ 
 {    
     name: 'p1',
-    message: "Qual a primeira nota ?",
+    message: ' Qual a primeira nota ?',
 },
 {
     name: 'p2',
