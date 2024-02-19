@@ -1,7 +1,7 @@
 const x = 10
 
 try {
-    x = 2
+    x = 4
 } catch(err){
 
     console.log(`Erro: ${err}`)

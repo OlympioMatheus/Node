@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 
-const nota = 7
+const nota = 6
 
 if(nota >= 7){
     console.log(chalk.green.bold('Parabéns!! você está aprovado'))
