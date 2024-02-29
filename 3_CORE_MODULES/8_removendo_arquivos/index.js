@@ -6,6 +6,6 @@ fs.unlink('arquivo.txt', function(erro){
     console.log(erro)
     return
    } 
-
-console.log('Arquivo removido!')
+   else
+   console.log('Arquivo removido!')
 })

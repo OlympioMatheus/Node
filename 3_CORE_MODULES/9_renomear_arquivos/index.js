@@ -8,6 +8,6 @@ fs.rename(arqAntigo ,arqNovo, function(erro){
         console.log(erro)
         return
     }
-
-    console,log("Arquivos renomeados")
+    else
+    console.log("Arquivos renomeados")
 })
